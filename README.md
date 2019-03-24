@@ -6,18 +6,19 @@ Github精选仓库
 
 ### 学习资料
 - [Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019): 机器学习学习路径，包括机器学习、商业智能、云计算。
-- [](https://github.com/fengdu78/lihang-code): 《统计学习方法》的代码实现。
-- [](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达的机器学习课程笔记
-- [](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达的深度学习课程笔记及资源
+- [lihang-code](https://github.com/fengdu78/lihang-code): 《统计学习方法》的代码实现。
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达的机器学习课程笔记
+- [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达的深度学习课程笔记及资源
 - [machine-learning-yearning-cn](https://github.com/AcceptedDoge/machine-learning-yearning-cn): 《机器学习训练秘籍》 - 吴恩达。
 - [practicalAI](https://github.com/GokuMohandas/practicalAI): 关于机器学习的 JupyterNotebook。
-- [](https://github.com/bharathgs/Awesome-pytorch-list): 关于 PyTorch 的库。
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): 关于 PyTorch 的库。
 - [tensorflow-internals](https://github.com/horance-liu/tensorflow-internals): TensorFlow 内核介绍。
+- [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh): 《Sklearn与TensorFlow机器学习实用指南》
 
 ### 工具
 - [fastai](https://github.com/fastai/fastai): 深度学习库。
 - [tfjs](https://github.com/tensorflow/tfjs): TensorFlow.js
-- [](https://github.com/justadudewhohacks/face-api.js): 人脸识别js库。
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js): 人脸识别js库。
 - [BERT](https://github.com/google-research/bert): 自然语言处理(NLP)库。
 - [Deep-Image-Matting](https://github.com/foamliu/Deep-Image-Matting): 基于 Keras 的抠图库。
 - [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior): 预训练的图像修复库。
@@ -30,7 +31,7 @@ Github精选仓库
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 《利用Python进行数据分析 第二版 (2017)》 中文翻译笔记。
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook): Python数据科学手册。
 - [mars](https://github.com/mars-project/mars): 阿里巴巴的大数据计算框架。
-- [](https://github.com/alibaba/x-deeplearning): 阿里巴巴面向高维稀疏数据场景（如广告/推荐/搜索等）深度优化的一整套解决方案。
+- [x-deeplearning](https://github.com/alibaba/x-deeplearning): 阿里巴巴面向高维稀疏数据场景（如广告/推荐/搜索等）深度优化的一整套解决方案。
 
 
 ## Python
@@ -43,11 +44,11 @@ Github精选仓库
 - [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model): Python模拟登陆一些大型网站。
 
 ### 应用软件
-- [](https://github.com/soimort/you-get): 网页视频/音频/图片下载器
+- [you-get](https://github.com/soimort/you-get): 网页视频/音频/图片下载器
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): Python开发的应用软件。
-- [](https://github.com/pyca/cryptography): Python密码学工具。
-- [](https://github.com/Legrandin/pycryptodome): Python密码学工具。
-- [](https://github.com/dloss/python-pentest-tools): Python 渗透测试工具集合。
+- [cryptography](https://github.com/pyca/cryptography): Python密码学工具。
+- [pycryptodome](https://github.com/Legrandin/pycryptodome): Python密码学工具。
+- [python-pentest-tools](https://github.com/dloss/python-pentest-tools): Python 渗透测试工具集合。
 
 
 ## 算法和数据结构
@@ -55,10 +56,10 @@ Github精选仓库
 - [algorithms](https://github.com/jeffgerickson/algorithms): 《算法》 - Jeff Erickson
 - [algorithms](https://github.com/keon/algorithms): python算法和数据结构题。
 - [python_interview_question](https://github.com/kenwoodjw/python_interview_question): python面试题。
-- [](https://github.com/taizilongxu/interview_python): python面试题。
+- [interview_python](https://github.com/taizilongxu/interview_python): python面试题。
 - [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese): 算法面试题。
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): 基于 JavaScript 的算法和数据结构题目。
-- [](https://github.com/algorithm-visualizer/algorithm-visualizer): 网页版算法可视化
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer): 网页版算法可视化
 
 
 ## GraphQL
@@ -75,15 +76,17 @@ Github精选仓库
 
 ## 区块链
 
-- [](https://github.com/bitcoin/bitcoin): 比特币。
+- [bitcoin](https://github.com/bitcoin/bitcoin): 比特币。
 - [blockchain_guide](https://github.com/yeasy/blockchain_guide): 区块链技术指南。
-- [](https://github.com/bcosorg/bcos): BCOS平台。
+- [bcos](https://github.com/bcosorg/bcos): BCOS平台。
 
 
 ## Vim
 
-- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): Vim自动补全插件。
-- [Vundle.vim](https://github.com/VundleVim/Vundle.vim): Vim插件管理。
+- [Vundle.vim](https://github.com/VundleVim/Vundle.vim): Vim插件管理器。
+- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): 自动补全插件。
+- [vim-commentary](https://github.com/tpope/vim-commentary): 注释插件。
+- [vim-surround](https://github.com/tpope/vim-surround): 括号/引号等符号对插件。
 
 
 ## Web开发
