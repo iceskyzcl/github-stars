@@ -92,19 +92,20 @@ Github精选仓库
 ## Web开发
 
 - [webpack](https://github.com/webpack/webpack): js打包工具。
-- [](https://github.com/antvis/f2): 阿里巴巴的移动端前端图表库。
-- [](https://github.com/niklasvh/html2canvas): html转图片
+- [vue2-elm](https://github.com/bailicangdu/vue2-elm): 基于vue2+vuex构建的饿了么页面
+- [f2](https://github.com/antvis/f2): 阿里巴巴的移动端前端图表库。
+- [html2canvas](https://github.com/niklasvh/html2canvas): html转图片
 
 
 ## BT服务器
 
-- [](https://github.com/ngosang/trackerslist): BitTorrent 服务器列表
+- [trackerslist](https://github.com/ngosang/trackerslist): BitTorrent 服务器列表
 
 ## 工具软件
-- [](https://github.com/trimstray/the-book-of-secret-knowledge): 各类工具软件集合。
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): 各类工具软件集合。
 
 
-- [](https://github.com/ty4z2008/Qix): Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang资源
+- [Qix](https://github.com/ty4z2008/Qix): Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang资源
 - [](): 
 - [](): 
 - [](): 
