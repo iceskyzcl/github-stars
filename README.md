@@ -76,17 +76,18 @@ Github精选仓库
 
 ## 区块链
 
-- [bitcoin](https://github.com/bitcoin/bitcoin): 比特币。
-- [blockchain_guide](https://github.com/yeasy/blockchain_guide): 区块链技术指南。
-- [bcos](https://github.com/bcosorg/bcos): BCOS平台。
+- [bitcoin](https://github.com/bitcoin/bitcoin): 比特币
+- [blockchain_guide](https://github.com/yeasy/blockchain_guide): 区块链技术指南
+- [bcos](https://github.com/bcosorg/bcos): BCOS平台
 
 
 ## Vim
 
-- [Vundle.vim](https://github.com/VundleVim/Vundle.vim): Vim插件管理器。
-- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): 自动补全插件。
-- [vim-commentary](https://github.com/tpope/vim-commentary): 注释插件。
-- [vim-surround](https://github.com/tpope/vim-surround): 括号/引号等符号对插件。
+- [vim-plug](https://github.com/junegunn/vim-plug): VIM插件管理器
+- [Vundle.vim](https://github.com/VundleVim/Vundle.vim): Vim插件管理器
+- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): 自动补全插件
+- [vim-commentary](https://github.com/tpope/vim-commentary): 注释插件
+- [vim-surround](https://github.com/tpope/vim-surround): 括号/引号等符号对插件
 
 
 ## Web开发
