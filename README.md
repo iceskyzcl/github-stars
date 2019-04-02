@@ -83,6 +83,7 @@ Github精选仓库
 
 ## Vim
 
+- [vimcdoc](https://github.com/yianwillis/vimcdoc): VIM中文文档
 - [vim-plug](https://github.com/junegunn/vim-plug): VIM插件管理器
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim): Vim插件管理器
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): 自动补全插件
