@@ -44,11 +44,12 @@ Github精选仓库
 - [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model): Python模拟登陆一些大型网站。
 
 ### 应用软件
-- [you-get](https://github.com/soimort/you-get): 网页视频/音频/图片下载器
-- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): Python开发的应用软件。
+- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn): awesome-python
+- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): Python开发的应用软件
 - [cryptography](https://github.com/pyca/cryptography): Python密码学工具。
 - [pycryptodome](https://github.com/Legrandin/pycryptodome): Python密码学工具。
 - [python-pentest-tools](https://github.com/dloss/python-pentest-tools): Python 渗透测试工具集合。
+- [you-get](https://github.com/soimort/you-get): 网页视频/音频/图片下载器
 
 
 ## 算法和数据结构
@@ -85,7 +86,7 @@ Github精选仓库
 
 - [vimcdoc](https://github.com/yianwillis/vimcdoc): VIM中文文档
 - [vim-plug](https://github.com/junegunn/vim-plug): VIM插件管理器
-- [Vundle.vim](https://github.com/VundleVim/Vundle.vim): Vim插件管理器
+- [nerdtree](https://github.com/scrooloose/nerdtree): 目录树插件
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): 自动补全插件
 - [vim-commentary](https://github.com/tpope/vim-commentary): 注释插件
 - [vim-surround](https://github.com/tpope/vim-surround): 括号/引号等符号对插件
@@ -108,11 +109,5 @@ Github精选仓库
 
 
 - [Qix](https://github.com/ty4z2008/Qix): Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang资源
-- [](): 
-- [](): 
-- [](): 
-- [](): 
-- [](): 
-- [](): 
 - [](): 
 - [](): 
