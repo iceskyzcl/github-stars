@@ -84,13 +84,14 @@ Github精选仓库
 
 ## Vim
 
-- [vimcdoc](https://github.com/yianwillis/vimcdoc): VIM中文文档
-- [vim-plug](https://github.com/junegunn/vim-plug): VIM插件管理器
-- [nerdtree](https://github.com/scrooloose/nerdtree): 目录树插件
-- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): 自动补全插件
-- [vim-commentary](https://github.com/tpope/vim-commentary): 注释插件
-- [vim-surround](https://github.com/tpope/vim-surround): 括号/引号等符号对插件
-- [ale](https://github.com/w0rp/ale): 语法检查插件
+- [yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc): VIM中文文档
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug): VIM插件管理器
+- [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree): 目录树插件
+- [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe): 自动补全插件
+- [SirVer/ultisnips](https://github.com/SirVer/ultisnips): 代码块自动补全
+- [tpope/vim-commentary](https://github.com/tpope/vim-commentary): 注释插件
+- [tpope/vim-surround](https://github.com/tpope/vim-surround): 括号/引号等符号对插件
+- [w0rp/ale](https://github.com/w0rp/ale): 语法检查插件
 
 
 ## Web开发
