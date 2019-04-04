@@ -90,6 +90,7 @@ Github精选仓库
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): 自动补全插件
 - [vim-commentary](https://github.com/tpope/vim-commentary): 注释插件
 - [vim-surround](https://github.com/tpope/vim-surround): 括号/引号等符号对插件
+- [ale](https://github.com/w0rp/ale): 语法检查插件
 
 
 ## Web开发
