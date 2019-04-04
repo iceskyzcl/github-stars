@@ -5,8 +5,9 @@ Github精选仓库
 ## 机器学习
 
 ### 学习资料
-- [Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019): 机器学习学习路径，包括机器学习、商业智能、云计算。
-- [lihang-code](https://github.com/fengdu78/lihang-code): 《统计学习方法》的代码实现。
+- [clone95/Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019): 机器学习学习路径，包括机器学习、商业智能、云计算。
+- [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book): 周志华《机器学习》（西瓜书）公式推导
+- [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code): 《统计学习方法》的代码实现。
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达的机器学习课程笔记
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达的深度学习课程笔记及资源
 - [machine-learning-yearning-cn](https://github.com/AcceptedDoge/machine-learning-yearning-cn): 《机器学习训练秘籍》 - 吴恩达。
