@@ -93,6 +93,7 @@ Github精选仓库
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary): 注释插件
 - [tpope/vim-surround](https://github.com/tpope/vim-surround): 括号/引号等符号对插件
 - [w0rp/ale](https://github.com/w0rp/ale): 语法检查插件
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim): markdown实时预览插件
 
 
 ## Web开发
