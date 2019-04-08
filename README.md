@@ -11,10 +11,11 @@ Github精选仓库
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达的机器学习课程笔记
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达的深度学习课程笔记及资源
 - [machine-learning-yearning-cn](https://github.com/AcceptedDoge/machine-learning-yearning-cn): 《机器学习训练秘籍》 - 吴恩达。
-- [practicalAI](https://github.com/GokuMohandas/practicalAI): 关于机器学习的 JupyterNotebook。
-- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): 关于 PyTorch 的库。
-- [tensorflow-internals](https://github.com/horance-liu/tensorflow-internals): TensorFlow 内核介绍。
-- [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh): 《Sklearn与TensorFlow机器学习实用指南》
+- [GokuMohandas/practicalAI](https://github.com/GokuMohandas/practicalAI): 关于机器学习的 JupyterNotebook。
+- [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): 关于 PyTorch 的库。
+- [horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals): TensorFlow 内核介绍。
+- [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh): 《Sklearn与TensorFlow机器学习实用指南》
+- [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》邱锡鹏
 
 ### 工具
 - [fastai](https://github.com/fastai/fastai): 深度学习库。
