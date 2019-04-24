@@ -16,6 +16,7 @@ Github精选仓库
 - [horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals): TensorFlow 内核介绍。
 - [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh): 《Sklearn与TensorFlow机器学习实用指南》
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》邱锡鹏
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning): AI学习路径
 
 ### 工具
 - [fastai](https://github.com/fastai/fastai): 深度学习库。
@@ -97,6 +98,11 @@ Github精选仓库
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim): markdown实时预览插件
 
 
+## 编码规范
+
+- [google/styleguide](https://github.com/google/styleguide): Google编码规范
+
+
 ## Web开发
 
 - [webpack](https://github.com/webpack/webpack): js打包工具。
@@ -105,9 +111,16 @@ Github精选仓库
 - [html2canvas](https://github.com/niklasvh/html2canvas): html转图片
 
 
+## 免费商用字体
+
+- [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans/tree/release): 思源黑体(release分支)
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif/tree/release/): 思源宋体(release分支)
+
+
 ## BT服务器
 
 - [trackerslist](https://github.com/ngosang/trackerslist): BitTorrent 服务器列表
+
 
 ## 工具软件
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): 各类工具软件集合。
