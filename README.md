@@ -57,32 +57,33 @@ Github精选仓库
 
 ## 算法和数据结构
 
-- [algorithms](https://github.com/jeffgerickson/algorithms): 《算法》 - Jeff Erickson
-- [algorithms](https://github.com/keon/algorithms): python算法和数据结构题。
-- [python_interview_question](https://github.com/kenwoodjw/python_interview_question): python面试题。
-- [interview_python](https://github.com/taizilongxu/interview_python): python面试题。
-- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese): 算法面试题。
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): 基于 JavaScript 的算法和数据结构题目。
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer): 网页版算法可视化
+- [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): 《算法》 - Jeff Erickson
+- [keon/algorithms](https://github.com/keon/algorithms): python算法和数据结构题。
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): 各种算法的python实现
+- [kenwoodjw/python_interview_question](https://github.com/kenwoodjw/python_interview_question): python面试题。
+- [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python): python面试题。
+- [imhuay/Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese): 算法面试题。
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): 基于 JavaScript 的算法和数据结构题目。
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer): 网页版算法可视化
 
 
 ## GraphQL
 
-- [awesome-graphql](https://github.com/chentsulin/awesome-graphql): 关于GraphQL和Relay的库。
-- [dgraph](https://github.com/dgraph-io/dgraph): 分布式图数据库，查询语言`GraphQL+-`类似于 facebook 的 GraphQL 语言。
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql): 关于GraphQL和Relay的库。
+- [graph-io/dgraph](https://github.com/dgraph-io/dgraph): 分布式图数据库，查询语言`GraphQL+-`类似于 facebook 的 GraphQL 语言。
 
 
 ## 软件工具
 
 
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra): 美国国家安全局(NSA)开发的反编译工具。
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra): 美国国家安全局(NSA)开发的反编译工具。
 
 
 ## 区块链
 
-- [bitcoin](https://github.com/bitcoin/bitcoin): 比特币
-- [blockchain_guide](https://github.com/yeasy/blockchain_guide): 区块链技术指南
-- [bcos](https://github.com/bcosorg/bcos): BCOS平台
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin): 比特币
+- [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide): 区块链技术指南
+- [bcosorg/bcos](https://github.com/bcosorg/bcos): BCOS平台
 
 
 ## Vim
@@ -105,10 +106,11 @@ Github精选仓库
 
 ## Web开发
 
-- [webpack](https://github.com/webpack/webpack): js打包工具。
-- [vue2-elm](https://github.com/bailicangdu/vue2-elm): 基于vue2+vuex构建的饿了么页面
-- [f2](https://github.com/antvis/f2): 阿里巴巴的移动端前端图表库。
-- [html2canvas](https://github.com/niklasvh/html2canvas): html转图片
+- [webpack/webpack](https://github.com/webpack/webpack): js打包工具。
+- [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm): 基于vue2+vuex构建的饿了么页面
+- [antvis/f2](https://github.com/antvis/f2): 阿里巴巴的移动端前端图表库。
+- [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas): html转图片
+- [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): WeUI for 小程序
 
 
 ## 免费商用字体
@@ -119,13 +121,13 @@ Github精选仓库
 
 ## BT服务器
 
-- [trackerslist](https://github.com/ngosang/trackerslist): BitTorrent 服务器列表
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist): BitTorrent 服务器列表
 
 
 ## 工具软件
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): 各类工具软件集合。
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): 各类工具软件集合。
 
 
-- [Qix](https://github.com/ty4z2008/Qix): Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang资源
+- [ty4z2008/Qix](https://github.com/ty4z2008/Qix): Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang资源
 - [](): 
 - [](): 
