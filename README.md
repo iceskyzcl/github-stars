@@ -91,6 +91,7 @@ Github精选仓库
 - [yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc): VIM中文文档
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug): VIM插件管理器
 - [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree): 目录树插件
+- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): git状态插件
 - [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe): 自动补全插件
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips): 代码块自动补全
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary): 注释插件
