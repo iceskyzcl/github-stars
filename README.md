@@ -52,6 +52,7 @@ Github精选仓库
 - [cryptography](https://github.com/pyca/cryptography): Python密码学工具。
 - [pycryptodome](https://github.com/Legrandin/pycryptodome): Python密码学工具。
 - [python-pentest-tools](https://github.com/dloss/python-pentest-tools): Python 渗透测试工具集合。
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl): 网页视频下载器
 - [you-get](https://github.com/soimort/you-get): 网页视频/音频/图片下载器
 
 
@@ -130,5 +131,4 @@ Github精选仓库
 
 
 - [ty4z2008/Qix](https://github.com/ty4z2008/Qix): Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang资源
-- [](): 
 - [](): 
