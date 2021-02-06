@@ -28,7 +28,11 @@ Github精选仓库
 - [faceswap](https://github.com/deepfakes/faceswap): 基于 Deepfakes 的换脸库。
 - [Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo): 基于 PyTorch 的慢镜头库。
 
+### OCR
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): OCR 识别与标注。
 
+
+---
 ## 数据科学
 
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 《利用Python进行数据分析 第二版 (2017)》 中文翻译笔记。
@@ -37,6 +41,7 @@ Github精选仓库
 - [x-deeplearning](https://github.com/alibaba/x-deeplearning): 阿里巴巴面向高维稀疏数据场景（如广告/推荐/搜索等）深度优化的一整套解决方案。
 
 
+---
 ## Python
 
 ### 开发工具
@@ -56,6 +61,7 @@ Github精选仓库
 - [you-get](https://github.com/soimort/you-get): 网页视频/音频/图片下载器
 
 
+---
 ## 算法和数据结构
 
 - [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): 《算法》 - Jeff Erickson
@@ -68,16 +74,18 @@ Github精选仓库
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer): 网页版算法可视化
 
 
+---
 ## GraphQL
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql): 关于GraphQL和Relay的库。
 - [graph-io/dgraph](https://github.com/dgraph-io/dgraph): 分布式图数据库，查询语言`GraphQL+-`类似于 facebook 的 GraphQL 语言。
 
 
-## 软件工具
-
+---
+## 软件
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra): 美国国家安全局(NSA)开发的反编译工具。
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen): 通过浏览器镜像屏幕
 
 
 ## 区块链
@@ -108,7 +116,10 @@ Github精选仓库
 
 ## Web开发
 
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript): awesome-javascript
 - [webpack/webpack](https://github.com/webpack/webpack): js打包工具。
+- [brix/crypto-js](https://github.com/brix/crypto-js): js加密库
+- [mrdoob/three.js](https://github.com/mrdoob/three.js): js 3D库
 - [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm): 基于vue2+vuex构建的饿了么页面
 - [antvis/f2](https://github.com/antvis/f2): 阿里巴巴的移动端前端图表库。
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas): html转图片
